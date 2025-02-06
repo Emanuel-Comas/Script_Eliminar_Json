@@ -20,5 +20,7 @@
 ### Resumen
 
 -- os.walk() : Recorre la carpeta principal y todas sus subcarpetas.
+
 -- .endswith(".json") : Verofoca si cada archivo tiene la extensión '.json'
+
 -- Si un archivo tiene la extensión '.json', se elimina con 'os.remove()'
